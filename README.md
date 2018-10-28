@@ -1,2 +1,2 @@
-# Resume-CJJ-
+# Resume-JC-
 English Resume in LaTeX
